@@ -13,7 +13,7 @@
 }
 
 .background {
-  background-image: url("../imgs/background.jpg");
+  background-image: url("https://pixabay.com/get/ef3cb10d21f71c22d2524518a34d4190e572e5dd04b0154497f5c77fa0e5b2/sky-690293_1280.jpg");
   height: 100vh;
   width: 100%;
   background-size: cover;
